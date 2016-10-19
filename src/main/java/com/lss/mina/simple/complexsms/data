@@ -1,0 +1,15 @@
+//first write
+M sip:wap.fetion.com.cn SIP-C/2.0
+S: 1580101xxxx
+R: 1889020xxxx
+
+//second write
+L: 21
+Hello World!
+M sip:wap.fetion.com.cn SIP-C/2.0
+
+//third write
+S: 1580101xxxx
+R: 1889020xxxx
+L: 21
+Hello World!
