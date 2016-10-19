@@ -1,1 +1,2 @@
 # minaLearn
+#simple pom
